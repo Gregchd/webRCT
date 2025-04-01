@@ -1,5 +1,5 @@
 import "./App.css";
-import VideoCall from "./components/videoCall";
+import VideoCall from "./components/VideoCallScreen";
 
 function App() {
     return (
